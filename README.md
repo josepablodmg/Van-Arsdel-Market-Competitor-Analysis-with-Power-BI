@@ -18,9 +18,14 @@ The dashboards were built to provide executives with **actionable insights** for
 
 ## 📂 Repository Structure
 📦 van-arsdel-analysis
-- ┣ 📜 van-arsdel-dataset.xlsx # Dataset with company and competitor info
-- ┣ 📜 van-arsdel-report.pbix # Power BI report
+- ┣ 📜 Van Arsdel Market & Competitor Analysis.pbix # Final Power BI report
+- ┣ 📜 France Sales.csv # Dataset for France
+- ┣ 📜 Germany Sales.csv # Dataset for Germany
+- ┣ 📜 Mexico Sales.csv # Dataset for Mexico
+- ┣ 📜 Manufacturers.xlsx # Additional dataset
+- ┣ 📜 LICENSE # License file
 - ┣ 📜 README.md # Project documentation
+- ┣ 📜 .gitattributes # Git LFS configuration
 
 ## 💡 Key Insights
 - **Sales Trends**: Track Van Arsdel’s growth and compare performance year-over-year.
